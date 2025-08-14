@@ -1,0 +1,37 @@
+# ----------------------
+# Python virtual environment
+# ----------------------
+.venv/
+
+# ----------------------
+# Byte-compiled / cache
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------
+# Data & Models
+# ----------------------
+data/
+models/
+*.h5
+*.pkl
+*.joblib
+
+# ----------------------
+# VSCode / Editor files
+# ----------------------
+*.code-workspace
+
+# ----------------------
+# OS files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Logs / temp files
+# ----------------------
+*.log
+*.tmp
