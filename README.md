@@ -21,13 +21,12 @@ git clone https://github.com/juchnowicz/internet-usage-dashboard-analysis.git
 
 3. Download the datasets and place in the `/data` folder:
 
-    [Data sources](https://www.dropbox.com/scl/fo/eopg3mphmfnq25k2cy2dj/ANCmg-Ioa-WJximPzRELjHU?rlkey=mbjjvvp1ygipudw11tjgeiwgp&st=xlnn7nld&dl=0){:target="_blank"}
+    [Data sources](https://www.dropbox.com/scl/fo/eopg3mphmfnq25k2cy2dj/ANCmg-Ioa-WJximPzRELjHU?rlkey=mbjjvvp1ygipudw11tjgeiwgp&st=xlnn7nld&dl=0)
 
 
 4. Download the packaged Tableau workbook and place in the `/models` folder:
 
-    [Tableau workbook](https://www.dropbox.com/scl/fo/k4tv2qaeye4tjvt78aziz/AOvpEhiZJUjjo5mVjPD6zrM?rlkey=izp05xokg63qrh4ixa5gbjh04&st=q0un9gh9&dl=0){:target:="_blank"}
-    <a href="https://www.dropbox.com/scl/fo/k4tv2qaeye4tjvt78aziz/AOvpEhiZJUjjo5mVjPD6zrM?rlkey=izp05xokg63qrh4ixa5gbjh04&st=q0un9gh9&dl=0" target="_blank">Tableau workbook</a>
+    [Tableau workbook](https://www.dropbox.com/scl/fo/k4tv2qaeye4tjvt78aziz/AOvpEhiZJUjjo5mVjPD6zrM?rlkey=izp05xokg63qrh4ixa5gbjh04&st=q0un9gh9&dl=0)
 
 
 5. Run the `analyzing_global_internet_patterns_dc_challenge.ipynb` notebook to reproduce the analysis.
